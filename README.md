@@ -11,8 +11,6 @@
 
 </div>
 
----
-
 ## ✨ Features
 
 - 🌐 **Multilingual Support** — Teaches in multiple Indian languages for inclusive learning
@@ -21,8 +19,6 @@
 - 📊 **Adaptive Learning** — Adjusts to student level and understanding
 - ⚡ **Real-time Responses** — Streaming answers with instant feedback
 - 🎨 **Modern UI** — Built with React 19, Tailwind CSS, and smooth animations
-
----
 
 ## 🚀 Getting Started
 
@@ -62,8 +58,6 @@
 
    Open [http://localhost:3000](http://localhost:3000) in your browser.
 
----
-
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
@@ -74,8 +68,6 @@
 | Build | Vite 6, esbuild |
 | Animations | Motion (Framer Motion) |
 | Charts | D3.js |
-
----
 
 ## 📁 Project Structure
 
@@ -95,8 +87,6 @@ gyansetu/
 └── package.json         # Project dependencies
 ```
 
----
-
 ## 📜 Available Scripts
 
 | Command | Description |
@@ -107,27 +97,21 @@ gyansetu/
 | `npm run lint` | Type-check with TypeScript |
 | `npm run preview` | Preview production build |
 
----
-
 ## 🔑 Environment Variables
 
 | Variable | Description | Required |
 |----------|-------------|----------|
 | `GEMINI_API_KEY` | Your Google Gemini API key | ✅ Yes |
 
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
----
-
 ## 📄 License
 
-This project is open source. See the repository for license details.
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
----
+![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
 <div align="center">
 Made with ❤️ for students across India 🇮🇳
