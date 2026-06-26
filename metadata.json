@@ -1,0 +1,6 @@
+{
+  "name": "GyanSetu AI",
+  "description": "An adaptive multilingual educational tutor (GyanSetu) designed for students from diverse linguistic and educational backgrounds to improve deep understanding.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
