@@ -3,11 +3,6 @@
   "framework": "vite",
   "buildCommand": "npx vite build",
   "outputDirectory": "dist",
-  "functions": {
-    "api/**/*.ts": {
-      "runtime": "@vercel/node@3.x"
-    }
-  },
   "rewrites": [
     { "source": "/api/chat", "destination": "/api/chat" },
     { "source": "/api/quiz/generate", "destination": "/api/quiz/generate" },
